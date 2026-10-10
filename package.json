@@ -18,7 +18,7 @@
     "react": "18.2.0",
     "react-native": "0.71.8",
     "adhan": "^3.0.0",
-    "hijri-date": "^1.0.3"
+   "hijri-date": "0.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
